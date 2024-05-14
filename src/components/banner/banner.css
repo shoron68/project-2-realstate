@@ -1,0 +1,46 @@
+.banenr_main{
+    background-color: #EEEDDE;
+    padding: 96px 0;
+}
+.banner_body{
+    display: flex;
+    justify-content: space-between;
+}
+
+.left h1{
+    font-size:56px;
+    line-height: 150%;
+    color: #203239;
+}
+.left p{
+    font-size:16px;
+    line-height: 30px;
+    color: #20323986;
+    width: 544px;
+}
+.left input{
+    height:24px;
+    width: 351px;
+    margin-top: 50px;
+    border-radius: 14px;
+    -webkit-border-radius: 14px;
+    -moz-border-radius: 14px;
+    -ms-border-radius: 14px;
+    -o-border-radius: 14px;
+}
+.left .input{
+padding: 23px 101px 23px 56px;
+ border: none;
+}
+.left button{
+    margin-left: 5px;
+    padding: 17px 40px;
+    background-color: #fff;
+    border: none;
+    border-radius: 12px;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    -ms-border-radius: 12px;
+    -o-border-radius: 12px;
+    cursor: pointer;
+}

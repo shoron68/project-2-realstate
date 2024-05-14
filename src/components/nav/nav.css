@@ -1,0 +1,16 @@
+#nav{
+    background-color:#EEEDDE ;
+}
+.nav_main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.left img{
+    width: 100%;
+}
+.right a{
+    padding-left: 60px;
+    color: #203239;
+    font-size: 18px;
+}

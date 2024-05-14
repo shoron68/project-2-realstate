@@ -1,0 +1,14 @@
+#cepat{
+    padding: 128px 0;
+}
+.header h2{
+    font-size:36px ;
+    line-height: 150%;
+    width: 533px;
+}
+.body{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+}
